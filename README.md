@@ -1,5 +1,5 @@
 # Weather-Forecasting-
-This PowerPoint presentation describes a **machine learning-based approach to weather forecasting**, focusing on using decision tree algorithms to predict rainfall and other meteorological events over short time frames based on historical weather data.[1]
+ **machine learning-based approach to weather forecasting**, focusing on using decision tree algorithms to predict rainfall and other meteorological events over short time frames based on historical weather data.[1]
 
 ## Project Overview
 
