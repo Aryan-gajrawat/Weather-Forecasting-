@@ -1,5 +1,5 @@
 # Weather-Forecasting-
-This PowerPoint presents a **project for weather forecasting using machine learning**, focusing on decision tree algorithms to predict rainfall and other weather conditions. Here’s a clear and structured explanation for documentation or a GitHub repository.[1]
+weather forecasting using machine learning**, focusing on decision tree algorithms to predict rainfall and other weather conditions. Here’s a clear and structured explanation for documentation or a GitHub repository.[1]
 
 ## Project Overview
 
